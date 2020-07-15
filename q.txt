@@ -3,5 +3,6 @@ git status
 git add filename
 git status
 git log
-git commit
+git commit -m 'comment'
 touch .gitignore
+My name is Asim
